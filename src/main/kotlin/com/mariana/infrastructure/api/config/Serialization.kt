@@ -1,4 +1,4 @@
-package com.mariana.plugin
+package com.mariana.infrastructure.api.config
 
 import io.ktor.serialization.kotlinx.json.*
 import io.ktor.server.application.*

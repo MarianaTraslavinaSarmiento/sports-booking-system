@@ -1,9 +1,9 @@
-package com.mariana.infraestructure.persistence
+package com.mariana.infrastructure.persistence
 
-import com.mariana.infraestructure.persistence.tables.FacilitiesTable
+import com.mariana.infrastructure.persistence.tables.FacilitiesTable
 import com.typesafe.config.ConfigFactory
-import infraestructure.persistence.tables.ReservationsTable
-import infraestructure.persistence.tables.UsersTable
+import infrastructure.persistence.tables.ReservationsTable
+import infrastructure.persistence.tables.UsersTable
 import io.ktor.server.application.*
 import org.jetbrains.exposed.sql.Database
 import org.jetbrains.exposed.sql.SchemaUtils

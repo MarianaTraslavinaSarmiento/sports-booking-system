@@ -4,7 +4,7 @@ import com.mariana.application.input.ListFacilitiesUseCase
 import com.mariana.application.output.FacilityRepository
 import com.mariana.domain.Facility
 
-class FaciltyService (
+class FacilityService (
     private val repository: FacilityRepository
 ): ListFacilitiesUseCase {
 

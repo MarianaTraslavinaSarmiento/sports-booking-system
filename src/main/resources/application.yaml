@@ -1,6 +1,6 @@
 ktor:
   application:
     modules:
-      - com.mariana.infraestructure.api.ApplicationKt.module
+      - com.mariana.infrastructure.api.ApplicationKt.module
   deployment:
     port: 8080

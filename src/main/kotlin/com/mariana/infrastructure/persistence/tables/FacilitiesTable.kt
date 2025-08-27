@@ -1,4 +1,4 @@
-package com.mariana.infraestructure.persistence.tables
+package com.mariana.infrastructure.persistence.tables
 
 import org.jetbrains.exposed.sql.Table
 

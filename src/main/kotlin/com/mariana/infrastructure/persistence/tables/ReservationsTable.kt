@@ -1,7 +1,6 @@
-package infraestructure.persistence.tables
+package infrastructure.persistence.tables
 
-import com.mariana.infraestructure.persistence.tables.FacilitiesTable
-import com.mariana.infraestructure.persistence.tables.FacilitiesTable.autoIncrement
+import com.mariana.infrastructure.persistence.tables.FacilitiesTable
 import org.jetbrains.exposed.sql.Table
 import org.jetbrains.exposed.sql.javatime.datetime
 

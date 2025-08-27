@@ -1,4 +1,4 @@
-package infraestructure.persistence.tables
+package infrastructure.persistence.tables
 
 import org.jetbrains.exposed.sql.Table
 
